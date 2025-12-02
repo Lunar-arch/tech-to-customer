@@ -5,6 +5,10 @@ __pycache__/
 .venv/
 venv/
 
+# Node
+frontend/node_modules/
+
+
 # Testing
 .pytest_cache/
 .coverage
